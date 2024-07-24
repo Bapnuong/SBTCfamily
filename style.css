@@ -114,10 +114,16 @@ li{
     margin-left:20px;
     margin-bottom: 20px;
 }
-.giuatranganh video{
-    margin-left:280px;
-    margin-bottom: 20px;
-}
 #anh{
     text-align: center;
 }
+img{
+    max-width: 100%;
+}
+video {
+    width: 100%;
+    height: 100%;
+    left:auto;
+    right:auto;
+}
+
