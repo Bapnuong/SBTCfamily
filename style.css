@@ -116,6 +116,8 @@ li{
 }
 img{
     max-width: 100%;
+    left:auto;
+    right:auto;
 }
 video {
     width: 100%;
